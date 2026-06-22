@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1004978548992",
+    "project_id": "college-finder-app-49819",
+    "storage_bucket": "college-finder-app-49819.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004978548992:android:ac198fbf985b38d39e03e5",
+        "android_client_info": {
+          "package_name": "com.example.college_finder_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAItMwIHHbHHJTpvgrqKhF3SvLGiqO3_dE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

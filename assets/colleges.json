@@ -1,0 +1,1120 @@
+[
+  {
+    "name": "Pune Institute of Computer Technology",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "type": "Private",
+    "university": "SPPU",
+    "fees": 482000,
+    "avgPackage": 10.11,
+    "highestPackage": 33.57,
+    "naac": "A+",
+    "placement": "82%",
+    "approval": [
+      "AICTE",
+      "NBA"
+    ],
+    "rating": 4.0,
+    "reviews": 193,
+    "ranking": "119/500",
+    "cdScore": 843,
+    "bestFeature": "Placements",
+    "branches": [
+      "CSE",
+      "IT",
+      "ENTC"
+    ],
+    "hostel": false
+  },
+  {
+    "name": "Vishwakarma Institute of Technology",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "type": "Private",
+    "university": "SPPU",
+    "fees": 844757,
+    "avgPackage": 7.5,
+    "highestPackage": 45.0,
+    "naac": "A++",
+    "placement": "86%",
+    "approval": [
+      "AICTE",
+      "NBA"
+    ],
+    "rating": 4.0,
+    "reviews": 606,
+    "ranking": "188/500",
+    "cdScore": 731,
+    "bestFeature": "Campus Life",
+    "branches": [
+      "CSE",
+      "IT",
+      "AI",
+      "Mechanical",
+      "ENTC"
+    ],
+    "hostel": true
+  },
+  {
+    "name": "Army Institute of Technology",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "type": "Private",
+    "university": "SPPU",
+    "fees": 1369660,
+    "avgPackage": 10.45,
+    "highestPackage": 59.35,
+    "naac": "A",
+    "placement": "93%",
+    "approval": [
+      "AICTE",
+      "NBA"
+    ],
+    "rating": 4.3,
+    "reviews": 476,
+    "ranking": "195/500",
+    "cdScore": 722,
+    "bestFeature": "Campus Life",
+    "branches": [
+      "CSE",
+      "IT",
+      "Mechanical",
+      "ENTC"
+    ],
+    "hostel": true
+  },
+  {
+    "name": "Cummins College of Engineering for Women",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "type": "Private",
+    "university": "SPPU",
+    "fees": 707109,
+    "avgPackage": 17.0,
+    "highestPackage": 36.0,
+    "naac": "A",
+    "placement": "90%",
+    "approval": [
+      "AICTE",
+      "NBA"
+    ],
+    "rating": 4.1,
+    "reviews": 73,
+    "ranking": "213/500",
+    "cdScore": 703,
+    "bestFeature": "Placements",
+    "branches": [
+      "CSE",
+      "IT",
+      "ENTC",
+      "Mechanical"
+    ],
+    "hostel": true
+  },
+  {
+    "name": "Pimpri Chinchwad College of Engineering",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "type": "Private",
+    "university": "SPPU",
+    "fees": 2118984,
+    "avgPackage": 9.54,
+    "highestPackage": 14.0,
+    "naac": "A",
+    "placement": "85%",
+    "approval": [
+      "AICTE",
+      "NBA"
+    ],
+    "rating": 4.0,
+    "reviews": 307,
+    "ranking": "243/500",
+    "cdScore": 672,
+    "bestFeature": "Placements",
+    "branches": [
+      "CSE",
+      "IT",
+      "Mechanical",
+      "Civil"
+    ],
+    "hostel": true
+  },
+  {
+    "name": "Vishwakarma Institute of Information Technology",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "type": "Private",
+    "university": "SPPU",
+    "fees": 824000,
+    "avgPackage": 7.7,
+    "highestPackage": 33.0,
+    "naac": "A",
+    "placement": "80%",
+    "approval": [
+      "AICTE",
+      "NBA"
+    ],
+    "rating": 4.0,
+    "reviews": 272,
+    "ranking": "262/500",
+    "cdScore": 654,
+    "bestFeature": "Academics",
+    "branches": [
+      "CSE",
+      "IT",
+      "AI"
+    ],
+    "hostel": false
+  },
+  {
+    "name": "Pune Vidhyarthi Griha's College of Engineering",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "type": "Private",
+    "university": "SPPU",
+    "fees": 602800,
+    "avgPackage": 4.95,
+    "highestPackage": 30.0,
+    "naac": "A",
+    "placement": "75%",
+    "approval": [
+      "AICTE",
+      "NBA"
+    ],
+    "rating": 3.8,
+    "reviews": 164,
+    "ranking": "291/500",
+    "cdScore": 629,
+    "bestFeature": "Infrastructure",
+    "branches": [
+      "CSE",
+      "AI",
+      "Mechanical"
+    ],
+    "hostel": false
+  },
+  {
+    "name": "D. Y. Patil College of Engineering",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "type": "Private",
+    "university": "SPPU",
+    "fees": 800000,
+    "avgPackage": 8.0,
+    "highestPackage": 52.0,
+    "naac": "A",
+    "placement": "78%",
+    "approval": [
+      "AICTE",
+      "NBA"
+    ],
+    "rating": 3.9,
+    "reviews": 183,
+    "ranking": "312/500",
+    "cdScore": 613,
+    "bestFeature": "Infrastructure",
+    "branches": [
+      "CSE",
+      "IT",
+      "Mechanical",
+      "Civil"
+    ],
+    "hostel": true
+  },
+  {
+    "name": "International Institute of Information Technology (I2IT)",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "type": "Private",
+    "university": "SPPU",
+    "fees": 488000,
+    "avgPackage": 5.0,
+    "highestPackage": 28.0,
+    "naac": "A",
+    "placement": "70%",
+    "approval": [
+      "AICTE",
+      "NBA"
+    ],
+    "rating": 3.8,
+    "reviews": 79,
+    "ranking": "324/500",
+    "cdScore": 604,
+    "bestFeature": "Infrastructure",
+    "branches": [
+      "CSE",
+      "IT"
+    ],
+    "hostel": false
+  },
+  {
+    "name": "PCCOER Ravet",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "type": "Private",
+    "university": "SPPU",
+    "fees": 572000,
+    "avgPackage": 5.34,
+    "highestPackage": 19.5,
+    "naac": "A++",
+    "placement": "76%",
+    "approval": [
+      "AICTE",
+      "NBA"
+    ],
+    "rating": 3.9,
+    "reviews": 42,
+    "ranking": "334/500",
+    "cdScore": 596,
+    "bestFeature": "Academics",
+    "branches": [
+      "CSE",
+      "IT",
+      "Mechanical"
+    ],
+    "hostel": false
+  },
+  {
+    "name": "JSPM Rajarshi Shahu College of Engineering",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "type": "Private",
+    "university": "SPPU",
+    "fees": 480956,
+    "avgPackage": 5.0,
+    "highestPackage": 30.0,
+    "naac": "A",
+    "placement": "72%",
+    "approval": [
+      "AICTE"
+    ],
+    "rating": 3.9,
+    "reviews": 702,
+    "ranking": "341/500",
+    "cdScore": 592,
+    "bestFeature": "Academics",
+    "branches": [
+      "CSE",
+      "IT",
+      "Mechanical"
+    ],
+    "hostel": false
+  },
+  {
+    "name": "Bharati Vidyapeeth College of Engineering Lavale",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "type": "Private",
+    "university": "SPPU",
+    "fees": 468000,
+    "avgPackage": 5.0,
+    "highestPackage": 19.0,
+    "naac": "B++",
+    "placement": "68%",
+    "approval": [
+      "AICTE"
+    ],
+    "rating": 3.6,
+    "reviews": 36,
+    "ranking": "344/500",
+    "cdScore": 590,
+    "bestFeature": "Academics",
+    "branches": [
+      "CSE",
+      "IT",
+      "Mechanical"
+    ],
+    "hostel": false
+  },
+  {
+    "name": "MIT Academy of Engineering",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "type": "Private",
+    "university": "SPPU",
+    "fees": 766948,
+    "avgPackage": 6.1,
+    "highestPackage": 28.0,
+    "naac": "A",
+    "placement": "74%",
+    "approval": [
+      "AICTE",
+      "NBA"
+    ],
+    "rating": 3.8,
+    "reviews": 140,
+    "ranking": "349/500",
+    "cdScore": 586,
+    "bestFeature": "Academics",
+    "branches": [
+      "CSE",
+      "IT",
+      "Mechanical",
+      "Civil"
+    ],
+    "hostel": true
+  },
+  {
+    "name": "DY Patil Institute of Engineering Management & Research",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "type": "Private",
+    "university": "SPPU",
+    "fees": 395168,
+    "avgPackage": 4.0,
+    "highestPackage": 45.0,
+    "naac": "B++",
+    "placement": "73%",
+    "approval": [
+      "AICTE"
+    ],
+    "rating": 3.8,
+    "reviews": 84,
+    "ranking": "351/500",
+    "cdScore": 585,
+    "bestFeature": "Campus Life",
+    "branches": [
+      "CSE",
+      "IT",
+      "Mechanical"
+    ],
+    "hostel": false
+  },
+  {
+    "name": "AISSMS College of Engineering",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "type": "Private",
+    "university": "SPPU",
+    "fees": 1964944,
+    "avgPackage": 4.5,
+    "highestPackage": 45.0,
+    "naac": "A+",
+    "placement": "71%",
+    "approval": [
+      "AICTE",
+      "NBA"
+    ],
+    "rating": 4.1,
+    "reviews": 162,
+    "ranking": "355/500",
+    "cdScore": 582,
+    "bestFeature": "Academics",
+    "branches": [
+      "CSE",
+      "IT",
+      "Mechanical",
+      "ENTC"
+    ],
+    "hostel": false
+  },
+  {
+    "name": "DY Patil Institute of Technology Pimpri",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "type": "Private",
+    "university": "SPPU",
+    "fees": 508000,
+    "avgPackage": 4.7,
+    "highestPackage": 18.0,
+    "naac": "A++",
+    "placement": "70%",
+    "approval": [
+      "AICTE"
+    ],
+    "rating": 3.9,
+    "reviews": 178,
+    "ranking": "362/500",
+    "cdScore": 578,
+    "bestFeature": "Academics",
+    "branches": [
+      "CSE",
+      "IT",
+      "Mechanical"
+    ],
+    "hostel": false
+  },
+  {
+    "name": "Government College of Engineering and Research",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "type": "Government",
+    "university": "SPPU",
+    "fees": 96501,
+    "avgPackage": 3.83,
+    "highestPackage": 7.5,
+    "naac": "B",
+    "placement": "60%",
+    "approval": [
+      "AICTE"
+    ],
+    "rating": 3.6,
+    "reviews": 50,
+    "ranking": "370/500",
+    "cdScore": 572,
+    "bestFeature": "Affordable",
+    "branches": [
+      "CSE",
+      "Mechanical",
+      "Civil"
+    ],
+    "hostel": true
+  },
+  {
+    "name": "AISSMS Institute of Information Technology",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "type": "Private",
+    "university": "SPPU",
+    "fees": 140851,
+    "avgPackage": 4.5,
+    "highestPackage": 14.0,
+    "naac": "A+",
+    "placement": "65%",
+    "approval": [
+      "AICTE"
+    ],
+    "rating": 4.0,
+    "reviews": 311,
+    "ranking": "372/500",
+    "cdScore": 571,
+    "bestFeature": "Campus Life",
+    "branches": [
+      "CSE",
+      "IT",
+      "AI"
+    ],
+    "hostel": false
+  },
+  {
+    "name": "Modern College of Engineering",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "type": "Private",
+    "university": "SPPU",
+    "fees": 509368,
+    "avgPackage": 5.0,
+    "highestPackage": 14.5,
+    "naac": "A++",
+    "placement": "70%",
+    "approval": [
+      "AICTE"
+    ],
+    "rating": 3.6,
+    "reviews": 126,
+    "ranking": "389/500",
+    "cdScore": 561,
+    "bestFeature": "Academics",
+    "branches": [
+      "CSE",
+      "IT",
+      "Mechanical"
+    ],
+    "hostel": false
+  },
+  {
+    "name": "Sinhgad College of Engineering",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "type": "Private",
+    "university": "SPPU",
+    "fees": 476264,
+    "avgPackage": 5.6,
+    "highestPackage": 12.5,
+    "naac": "A+",
+    "placement": "72%",
+    "approval": [
+      "AICTE",
+      "NBA"
+    ],
+    "rating": 3.9,
+    "reviews": 1123,
+    "ranking": "395/500",
+    "cdScore": 557,
+    "bestFeature": "Campus Life",
+    "branches": [
+      "CSE",
+      "IT",
+      "Mechanical",
+      "Civil"
+    ],
+    "hostel": true
+  },
+  {
+    "name": "Indira College of Engineering and Management",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "type": "Private",
+    "university": "SPPU",
+    "fees": 453000,
+    "avgPackage": 4.2,
+    "highestPackage": 12.0,
+    "naac": "A",
+    "placement": "65%",
+    "approval": [
+      "AICTE"
+    ],
+    "rating": 3.7,
+    "reviews": 89,
+    "ranking": "401/500",
+    "cdScore": 548,
+    "bestFeature": "Affordable",
+    "branches": [
+      "CSE",
+      "IT",
+      "Mechanical"
+    ],
+    "hostel": true
+  },
+  {
+    "name": "JSPM's Imperial College of Engineering and Research",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "type": "Private",
+    "university": "SPPU",
+    "fees": 390000,
+    "avgPackage": 4.0,
+    "highestPackage": 11.0,
+    "naac": "B+",
+    "placement": "62%",
+    "approval": [
+      "AICTE"
+    ],
+    "rating": 3.5,
+    "reviews": 54,
+    "ranking": "410/500",
+    "cdScore": 539,
+    "bestFeature": "Affordable",
+    "branches": [
+      "CSE",
+      "IT",
+      "Mechanical"
+    ],
+    "hostel": false
+  },
+  {
+    "name": "Savitribai Phule Pune University (COEP)",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "type": "Government",
+    "university": "SPPU",
+    "fees": 605576,
+    "avgPackage": 11.62,
+    "highestPackage": 52.57,
+    "naac": "A+",
+    "placement": "82%",
+    "approval": [
+      "AICTE",
+      "NBA",
+      "NAAC"
+    ],
+    "rating": 4.4,
+    "reviews": 520,
+    "ranking": "99/500",
+    "cdScore": 902,
+    "bestFeature": "Placements",
+    "branches": [
+      "CSE",
+      "IT",
+      "Mechanical",
+      "Civil",
+      "ENTC"
+    ],
+    "hostel": true
+  },
+  {
+    "name": "NBN Sinhgad School of Engineering",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "type": "Private",
+    "university": "SPPU",
+    "fees": 430000,
+    "avgPackage": 4.8,
+    "highestPackage": 13.0,
+    "naac": "B++",
+    "placement": "68%",
+    "approval": [
+      "AICTE"
+    ],
+    "rating": 3.7,
+    "reviews": 67,
+    "ranking": "415/500",
+    "cdScore": 533,
+    "bestFeature": "Academics",
+    "branches": [
+      "CSE",
+      "IT",
+      "Mechanical"
+    ],
+    "hostel": false
+  },
+  {
+    "name": "Zeal College of Engineering and Research",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "type": "Private",
+    "university": "SPPU",
+    "fees": 398000,
+    "avgPackage": 3.9,
+    "highestPackage": 10.5,
+    "naac": "B+",
+    "placement": "60%",
+    "approval": [
+      "AICTE"
+    ],
+    "rating": 3.5,
+    "reviews": 48,
+    "ranking": "423/500",
+    "cdScore": 526,
+    "bestFeature": "Affordable",
+    "branches": [
+      "CSE",
+      "IT",
+      "Mechanical"
+    ],
+    "hostel": false
+  },
+  {
+    "name": "Smt. Kashibai Navale College of Engineering",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "type": "Private",
+    "university": "SPPU",
+    "fees": 456000,
+    "avgPackage": 5.2,
+    "highestPackage": 15.0,
+    "naac": "A",
+    "placement": "71%",
+    "approval": [
+      "AICTE",
+      "NBA"
+    ],
+    "rating": 3.8,
+    "reviews": 203,
+    "ranking": "430/500",
+    "cdScore": 519,
+    "bestFeature": "Campus Life",
+    "branches": [
+      "CSE",
+      "IT",
+      "Mechanical",
+      "Civil"
+    ],
+    "hostel": true
+  },
+  {
+    "name": "Marathwada Mitra Mandal's College of Engineering",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "type": "Private",
+    "university": "SPPU",
+    "fees": 385000,
+    "avgPackage": 4.1,
+    "highestPackage": 11.5,
+    "naac": "B+",
+    "placement": "63%",
+    "approval": [
+      "AICTE"
+    ],
+    "rating": 3.6,
+    "reviews": 91,
+    "ranking": "438/500",
+    "cdScore": 511,
+    "bestFeature": "Affordable",
+    "branches": [
+      "CSE",
+      "Mechanical",
+      "Civil"
+    ],
+    "hostel": false
+  },
+  {
+    "name": "Symbiosis Institute of Technology",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "type": "Private",
+    "university": "Symbiosis",
+    "fees": 1800000,
+    "avgPackage": 8.5,
+    "highestPackage": 38.0,
+    "naac": "A+",
+    "placement": "84%",
+    "approval": [
+      "AICTE",
+      "NBA"
+    ],
+    "rating": 4.2,
+    "reviews": 415,
+    "ranking": "201/500",
+    "cdScore": 718,
+    "bestFeature": "Placements",
+    "branches": [
+      "CSE",
+      "IT",
+      "AI",
+      "Mechanical"
+    ],
+    "hostel": true
+  },
+  {
+    "name": "Sinhgad Institute of Technology and Science",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "type": "Private",
+    "university": "SPPU",
+    "fees": 438000,
+    "avgPackage": 4.6,
+    "highestPackage": 13.5,
+    "naac": "A",
+    "placement": "67%",
+    "approval": [
+      "AICTE"
+    ],
+    "rating": 3.7,
+    "reviews": 142,
+    "ranking": "445/500",
+    "cdScore": 504,
+    "bestFeature": "Academics",
+    "branches": [
+      "CSE",
+      "IT",
+      "Mechanical"
+    ],
+    "hostel": true
+  },
+  {
+    "name": "Trinity College of Engineering and Research",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "type": "Private",
+    "university": "SPPU",
+    "fees": 360000,
+    "avgPackage": 3.7,
+    "highestPackage": 9.5,
+    "naac": "B",
+    "placement": "58%",
+    "approval": [
+      "AICTE"
+    ],
+    "rating": 3.4,
+    "reviews": 37,
+    "ranking": "452/500",
+    "cdScore": 497,
+    "bestFeature": "Affordable",
+    "branches": [
+      "CSE",
+      "IT",
+      "Mechanical"
+    ],
+    "hostel": false
+  },
+  {
+    "name": "KIT's College of Engineering",
+    "city": "Kolhapur",
+    "state": "Maharashtra",
+    "type": "Private",
+    "university": "Shivaji University",
+    "fees": 391000,
+    "avgPackage": 6.5,
+    "highestPackage": 41.0,
+    "naac": "A+",
+    "placement": null,
+    "approval": [
+      "AICTE",
+      "UGC",
+      "NBA"
+    ],
+    "rating": 4.2,
+    "reviews": 157,
+    "ranking": "#409/500",
+    "cdScore": 549,
+    "bestFeature": "Infrastructure",
+    "branches": [
+      "CSE",
+      "AI"
+    ],
+    "hostel": false
+  },
+  {
+    "name": "DKTE Society's Textile and Engineering Institute",
+    "city": "Kolhapur",
+    "state": "Maharashtra",
+    "type": "Private",
+    "university": "Shivaji University",
+    "fees": 484000,
+    "avgPackage": 3.5,
+    "highestPackage": 6.0,
+    "naac": "A+",
+    "placement": null,
+    "approval": [
+      "AICTE",
+      "NBA"
+    ],
+    "rating": 4.0,
+    "reviews": 109,
+    "ranking": "#211/238",
+    "cdScore": 548,
+    "bestFeature": "Academics",
+    "branches": [
+      "CSE",
+      "Textile Engineering"
+    ],
+    "hostel": false
+  },
+  {
+    "name": "DY Patil College of Engineering and Technology",
+    "city": "Kolhapur",
+    "state": "Maharashtra",
+    "type": "Private",
+    "university": "Shivaji University",
+    "fees": 496000,
+    "avgPackage": 7.08,
+    "highestPackage": 8.5,
+    "naac": "A",
+    "placement": null,
+    "approval": [
+      "AICTE",
+      "COA",
+      "UGC",
+      "NBA"
+    ],
+    "rating": 3.9,
+    "reviews": 88,
+    "ranking": "#222/284",
+    "cdScore": 547,
+    "bestFeature": "Academics",
+    "branches": [
+      "CSE",
+      "Civil"
+    ],
+    "hostel": false
+  },
+  {
+    "name": "Tatyasaheb Kore Institute of Engineering and Technology",
+    "city": "Kolhapur",
+    "state": "Maharashtra",
+    "type": "Private",
+    "university": "Shivaji University",
+    "fees": 423040,
+    "avgPackage": 4.2,
+    "highestPackage": 8.5,
+    "naac": "A",
+    "placement": null,
+    "approval": [
+      "AICTE",
+      "NBA"
+    ],
+    "rating": 3.9,
+    "reviews": 52,
+    "ranking": "#203/246",
+    "cdScore": 544,
+    "bestFeature": "Faculty",
+    "branches": [
+      "CSE"
+    ],
+    "hostel": false
+  },
+  {
+    "name": "Bharati Vidyapeeth College of Engineering",
+    "city": "Kolhapur",
+    "state": "Maharashtra",
+    "type": "Private",
+    "university": "Shivaji University",
+    "fees": 444000,
+    "avgPackage": 1.86,
+    "highestPackage": 4.5,
+    "naac": "A+",
+    "placement": null,
+    "approval": [
+      "AICTE"
+    ],
+    "rating": 3.4,
+    "reviews": 24,
+    "ranking": null,
+    "cdScore": null,
+    "bestFeature": "Infrastructure",
+    "branches": [
+      "CSE"
+    ],
+    "hostel": false
+  },
+  {
+    "name": "Dr. J.J. Magdum College of Engineering",
+    "city": "Kolhapur",
+    "state": "Maharashtra",
+    "type": "Private",
+    "university": "Shivaji University",
+    "fees": 392000,
+    "avgPackage": null,
+    "highestPackage": 12.5,
+    "naac": "A+",
+    "placement": null,
+    "approval": [
+      "AICTE",
+      "NBA"
+    ],
+    "rating": 4.0,
+    "reviews": 29,
+    "ranking": null,
+    "cdScore": null,
+    "bestFeature": "Faculty",
+    "branches": [
+      "ENTC"
+    ],
+    "hostel": false
+  },
+  {
+    "name": "Sanjay Ghodawat University",
+    "city": "Kolhapur",
+    "state": "Maharashtra",
+    "type": "Private",
+    "university": "Shivaji University",
+    "fees": 600000,
+    "avgPackage": 3.2,
+    "highestPackage": 36.0,
+    "naac": null,
+    "placement": null,
+    "approval": [
+      "AICTE",
+      "COA",
+      "PCI",
+      "UGC"
+    ],
+    "rating": 4.0,
+    "reviews": 65,
+    "ranking": null,
+    "cdScore": null,
+    "bestFeature": "Infrastructure",
+    "branches": [
+      "Aeronautical Engineering",
+      "CSE"
+    ],
+    "hostel": false
+  },
+  {
+    "name": "Sharad Institute of Technology College of Engineering",
+    "city": "Kolhapur",
+    "state": "Maharashtra",
+    "type": "Private",
+    "university": "Shivaji University",
+    "fees": 344000,
+    "avgPackage": null,
+    "highestPackage": 6.0,
+    "naac": "A",
+    "placement": null,
+    "approval": [
+      "AICTE",
+      "NBA"
+    ],
+    "rating": 4.1,
+    "reviews": 74,
+    "ranking": "#269/269",
+    "cdScore": null,
+    "bestFeature": "Infrastructure",
+    "branches": [
+      "CSE"
+    ],
+    "hostel": false
+  },
+  {
+    "name": "Sant Gajanan Maharaj College of Engineering",
+    "city": "Kolhapur",
+    "state": "Maharashtra",
+    "type": "Private",
+    "university": "Shivaji University",
+    "fees": 300000,
+    "avgPackage": 4.2,
+    "highestPackage": 9.5,
+    "naac": "B++",
+    "placement": null,
+    "approval": [
+      "AICTE"
+    ],
+    "rating": 4.0,
+    "reviews": 9,
+    "ranking": null,
+    "cdScore": null,
+    "bestFeature": "Academics",
+    "branches": [
+      "Electrical Engineering",
+      "CSE"
+    ],
+    "hostel": false
+  },
+  {
+    "name": "SBMSPM's Ashokrao Mane Group of Institutions",
+    "city": "Kolhapur",
+    "state": "Maharashtra",
+    "type": "Private",
+    "university": "Shivaji University",
+    "fees": 500000,
+    "avgPackage": 3.2,
+    "highestPackage": 12.0,
+    "naac": null,
+    "placement": null,
+    "approval": [
+      "AICTE",
+      "NBA"
+    ],
+    "rating": 4.1,
+    "reviews": 39,
+    "ranking": null,
+    "cdScore": null,
+    "bestFeature": "Academics",
+    "branches": [
+      "CSE"
+    ],
+    "hostel": false
+  },
+  {
+    "name": "Dr Bapuji Salunkhe Institute of Engineering and Technology",
+    "city": "Kolhapur",
+    "state": "Maharashtra",
+    "type": "Private",
+    "university": "Shivaji University",
+    "fees": 360000,
+    "avgPackage": 2.0,
+    "highestPackage": 3.5,
+    "naac": null,
+    "placement": null,
+    "approval": [
+      "AICTE"
+    ],
+    "rating": 3.8,
+    "reviews": 1,
+    "ranking": null,
+    "cdScore": null,
+    "bestFeature": null,
+    "branches": [
+      "AI"
+    ],
+    "hostel": false
+  },
+  {
+    "name": "DY Patil Education Society",
+    "city": "Kolhapur",
+    "state": "Maharashtra",
+    "type": "Private",
+    "university": "Shivaji University",
+    "fees": 480000,
+    "avgPackage": 2.98,
+    "highestPackage": 7.25,
+    "naac": "A++",
+    "placement": null,
+    "approval": [
+      "AICTE",
+      "PCI",
+      "INC",
+      "UGC"
+    ],
+    "rating": 4.0,
+    "reviews": 120,
+    "ranking": null,
+    "cdScore": null,
+    "bestFeature": "Faculty",
+    "branches": [
+      "CSE"
+    ],
+    "hostel": false
+  }
+]
